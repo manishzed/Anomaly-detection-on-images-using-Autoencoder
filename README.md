@@ -7,3 +7,11 @@ python train.py --name type_1 --loss ssim_loss --im_resize 256 --patch_size 128 
 
 #test model
 python test.py --name type_1 --loss ssim_loss --im_resize 256 --patch_size 128 --z_dim 100 --grayscale
+
+
+
+
+
+references:
+
+https://github.com/plutoyuxie/AutoEncoder-SSIM-for-unsupervised-anomaly-detection-
